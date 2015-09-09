@@ -15,4 +15,4 @@ for count in range(1,101):
 	from random import randint
 	random_number = randint(0,100)
 	x.append(random_number)
-y = bubble_sort(x)
+ubble_sort(x)
